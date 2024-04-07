@@ -1,0 +1,9 @@
+1. Copy files to the runtime environment.
+2. Run python main.py.
+3. Super administrator account: Administrator Password: Administrator
+   Ordinary student account: root Password: root123
+   Candidate account: www Password: 123
+
+4. Database saves data files.
+   candidate.csv Candidate data, with one test data: Name: www
+   user.csv Account data
