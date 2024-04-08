@@ -1,4 +1,0 @@
-Account,Name,Password,Role,Type
-Administrator,administrator,e7d3e769f3f593dadcb8634cc5b09fc90dd3a61c4a06a79cb0923662fe6fae6b,Administrator,0
-root,root,e14cb9e5c0eeee0ea313a4e04fbd10aa17ac17aa33a3cad4bdfe74b87ca18ef8,normal,0
-www,Wang,a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3,candidate,1
